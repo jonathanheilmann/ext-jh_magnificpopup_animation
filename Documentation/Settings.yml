@@ -8,10 +8,10 @@
 
 ---
 conf.py:
-  copyright: 2014
+  copyright: 2014-2015
   project: Magnific Popup - Animation Effects
-  version: 0.0.0
-  release: 0.0.0
+  version: 0.4.0
+  release: 0.4.0
   intersphinx_mapping:
     t3tsref:
     - http://docs.typo3.org/typo3cms/TyposcriptReference/
