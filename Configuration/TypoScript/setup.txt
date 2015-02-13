@@ -1,0 +1,16 @@
+# Add css files to page
+page.includeCSS {
+  tx_jhmagnificpopupanimation1 = {$plugin.tx_jhmagnificpopupanimation.includeCss}
+  tx_jhmagnificpopupanimation1.if.isTrue = {$plugin.tx_jhmagnificpopupanimation.includeCss}
+}
+
+/*
+plugin.tx_jhmagnificpopup.settings.magnificpopup.templateVariables {
+	mainClass {
+		20 = TEXT
+		20.value = mfp-newspaper
+		20.noTrimWrap = | ||
+	}
+	removalDelay.value = 500
+}
+*/

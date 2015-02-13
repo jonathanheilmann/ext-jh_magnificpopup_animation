@@ -1,0 +1,17 @@
+tx_jhmagnificpopup.mainClass.zoom = mfp-zoom-in
+tx_jhmagnificpopup.removalDelay.zoom = 500
+
+tx_jhmagnificpopup.mainClass.newspaper = mfp-newspaper
+tx_jhmagnificpopup.removalDelay.newspaper = 500
+
+tx_jhmagnificpopup.mainClass.move-horizontal = mfp-move-horizontal
+tx_jhmagnificpopup.removalDelay.move-horizontal = 500
+
+tx_jhmagnificpopup.mainClass.move-from-top = mfp-move-from-top
+tx_jhmagnificpopup.removalDelay.move-from-top = 500
+
+tx_jhmagnificpopup.mainClass.3d-unfold = mfp-3d-unfold
+tx_jhmagnificpopup.removalDelay.3d-unfold = 500
+
+tx_jhmagnificpopup.mainClass.zoom-out = mfp-zoom-out
+tx_jhmagnificpopup.removalDelay.zoom-out = 500

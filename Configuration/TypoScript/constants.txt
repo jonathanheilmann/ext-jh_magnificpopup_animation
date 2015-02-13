@@ -1,0 +1,2 @@
+# cat=plugin.tx_jhmagnificpopupanimation/file/010; type=string; label= Animation css:Path to css (empty to include no css)
+plugin.tx_jhmagnificpopupanimation.includeCss = EXT:jh_magnificpopup_animation/Resources/Public/Styles/all.css

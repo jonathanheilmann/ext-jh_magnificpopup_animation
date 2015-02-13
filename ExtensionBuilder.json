@@ -1,0 +1,45 @@
+{
+    "modules": [
+
+    ],
+    "properties": {
+        "backendModules": [
+
+        ],
+        "description": "This extension provides some animation effects for MagnificPopup from EXT:jh_magnificpopup",
+        "emConf": {
+            "category": "plugin",
+            "custom_category": "",
+            "dependsOn": "typo3 => 6.2.0-6.2.99\njh_magnificpopup => 0.4.0\n",
+            "disableLocalization": false,
+            "disableVersioning": false,
+            "sourceLanguage": "en",
+            "state": "alpha",
+            "targetVersion": "6.2",
+            "version": ""
+        },
+        "extensionKey": "jh_magnificpopup_animation",
+        "name": "Magnific Popup - animation effects",
+        "originalExtensionKey": "",
+        "persons": [
+            {
+                "company": "",
+                "email": "mail@jonathan-heilmann.de",
+                "name": "Jonathan Heilmann",
+                "role": "Developer"
+            }
+        ],
+        "plugins": [
+
+        ],
+        "vendorName": "Heilmann"
+    },
+    "wires": [
+
+    ],
+    "log": {
+        "last_modified": "2014-10-04 05:21",
+        "extension_builder_version": "6.2.0",
+        "be_user": "Jonathan Heilmann (1)"
+    }
+}
