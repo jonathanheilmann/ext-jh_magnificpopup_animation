@@ -21,6 +21,14 @@ ChangeLog
          Changes
 
  - :Version:
+         0.4.1
+
+   :Changes:
+         \* Added extension icon
+
+         \* Updated documentation
+
+ - :Version:
          0.4.0
 
    :Changes:
